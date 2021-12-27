@@ -1,16 +1,18 @@
-### Hi there 👋
+## Quem sou eu?
 
-<!--
-**anadiasc/anadiasc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Meu nome é **Ana Vitória**, tenho 18 anos, moro no sul do Piauí e, atualmente, sou aluna do curso **Técnico em Informática no IF**. Me encantei com a área de TI no primeiro contato e, após poucos meses de estudo profundo, já consigo aplicar muito do que aprendi. No entatanto, sei que há muito conhecimento inexplorado, por essa razão quero documentar cada passo dessa incrível jornada por aqui e poder inspirar mais pessoas a começar a *codar*!
 
-Here are some ideas to get you started:
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="left">
+  <a href="https://github.com/anadiasc">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anadiasc&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+##
+ 
+<div> 
+ 
+  ![Snake animation](https://github.com/anadiasc/anadiasc/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
