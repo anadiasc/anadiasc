@@ -10,9 +10,3 @@ Olá! Meu nome é **Ana Vitória**, tenho 18 anos, moro no sul do Piauí e, atua
 </div>
 
 ##
- 
-<div> 
- 
-  ![Snake animation](https://github.com/anadiasc/anadiasc/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
