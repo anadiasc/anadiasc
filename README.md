@@ -1,6 +1,6 @@
 ## Quem sou eu?
 
-Olá! Meu nome é **Ana Vitória**, tenho 18 anos, moro no sul do Piauí e, atualmente, sou aluna do curso **Técnico em Informática no IF**. Me encantei com a área de TI no primeiro contato e, após poucos meses de estudo profundo, já consigo aplicar muito do que aprendi. No entatanto, sei que há muito conhecimento inexplorado, por essa razão quero documentar cada passo dessa incrível jornada por aqui e poder inspirar mais pessoas a começar a *codar*!
+Olá! Meu nome é **Ana Vitória**, tenho 18 anos, moro no sul do Piauí e, atualmente, sou aluna do curso **Técnico em Informática no IF**. Me encantei com a área de TI no primeiro contato e, após poucos meses de estudo profundo, já consigo aplicar muito do que aprendi. No entanto, sei que há muito conhecimento inexplorado, por essa razão quero documentar cada passo dessa incrível jornada por aqui e poder inspirar mais pessoas a começar a *codar*!
 
 ##
 
