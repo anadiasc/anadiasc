@@ -1,7 +1,6 @@
 <div align="center">
   <img src="favicon.png" style="width: 80px;">
   <h1>Hello World!</h1>
-  <p>Estou aqui para aprender e compartilhar experiências✨<br> 👩🏽‍💻 Cursando Análise e Desenvolvimento de Sistemas</p>
 </div>
 
 <div align="center"><br>
